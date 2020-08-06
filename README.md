@@ -8,9 +8,9 @@ My First game 2DUnity just a Die and Retry
 
 
 
-Link for PC with Timer activate : https://mega.nz/file/AmADiIyI#tBMPQdg67jFd7V51aexN_EyQ5npagoSH3AHGGQ74gYs
+Link for PC with Timer activate (no problem) : https://mega.nz/file/AmADiIyI#tBMPQdg67jFd7V51aexN_EyQ5npagoSH3AHGGQ74gYs
 
-Link for Web without Timer : https://simmer.io/@HideInShadow/retrytest
+Link for Web without Timer (no problem) : https://simmer.io/@HideInShadow/retrytest
 
 
 
