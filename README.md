@@ -4,7 +4,7 @@ My First game 2DUnity just a Die and Retry
 (Some part of the project don't work anymore because I failed at something but you can try it at these link)
 
 
-[](images/mockup_3.png)
+<img src="https://opengameart.org/sites/default/files/styles/medium/public/mockup_3.png">
 
 
 
