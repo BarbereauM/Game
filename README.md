@@ -1,10 +1,15 @@
 # Game
 
 My First game 2DUnity just a Die and Retry
+
 -> = go right
+
 <- = go left
+
 Space = jump
+
 R = reset (the timer don't reset for the moment need to fix this)
+
 P = pause to see the time you need to finish this game when you get in level with two chest
 
 
